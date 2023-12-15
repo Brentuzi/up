@@ -1,0 +1,14 @@
+C:\Users\Alex-\source\repos\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Alex-\source\repos\Project\Project\bin\Debug\Project.exe
+C:\Users\Alex-\source\repos\Project\Project\bin\Debug\Project.pdb
+C:\Users\Alex-\source\repos\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Alex-\source\repos\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Alex-\source\repos\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Alex-\source\repos\Project\Project\obj\Debug\Project.exe
+C:\Users\Alex-\source\repos\Project\Project\obj\Debug\Project.pdb
+C:\Users\Alex-\source\repos\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Alex-\source\repos\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Alex-\source\repos\Project\Project\obj\Debug\Project.CaptchaForm.resources
+C:\Users\Alex-\source\repos\Project\Project\obj\Debug\Project.UserForm.resources
+C:\Users\Alex-\source\repos\Project\Project\obj\Debug\Project.TeacherForm.resources
+C:\Users\Alex-\source\repos\Project\Project\obj\Debug\Project.AdminForm.resources
